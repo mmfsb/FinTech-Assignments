@@ -46,7 +46,7 @@ It doesn't charge any late penalty, or annual fees, which could add to the princ
 
 * Affirm can work on allowing consumers to refinance an existing loan for a better rate. Because Affirm already has its own algorithm for providing creditworthiness for consumers, they can create their own credit reporting system based on their digital footprint. Maybe they can one day arrange a point and reward system for customers who do not miss payments or as a way to promote customer loyalty.
 
-##References
+## References
 
 https://en.wikipedia.org/wiki/Max_Levchin
 
